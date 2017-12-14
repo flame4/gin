@@ -1,5 +1,4 @@
 vendor/*
 !vendor/vendor.json
-!vendor/glide.yaml
 coverage.out
 count.out

@@ -1,0 +1,4 @@
+package: .
+import:
+  - package: github.com/davecgh/go-spew/spew
+  - package: github.com/gin-contrib/sse
